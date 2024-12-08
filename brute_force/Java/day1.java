@@ -67,7 +67,7 @@ class Day1{
     }
 
     public static void main(String[] args) {
-        String file_path = "/Users/aaryaprakash/Desktop/Code/AOC2024/brute_force/inputs/examples/day1.txt";
+        String file_path = "../inputs/examples/day1.txt";
         ArrayList<Integer> inp = null;
         try{
             inp = getInput(file_path);
